@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://10.10.10.10:27017/Mongodb?readPreference=secondaryPreferred
