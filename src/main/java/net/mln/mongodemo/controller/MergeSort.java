@@ -8,6 +8,6 @@ package net.mln.mongodemo.controller;
  */
 public class MergeSort {
     public static void main(String[] args) {
-
+        System.out.println("sadsaD");
     }
 }
